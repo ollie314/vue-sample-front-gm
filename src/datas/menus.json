@@ -2,52 +2,52 @@
   {
     "id": 0,
     "label": "Home",
-    "icon": "move_to_inbox",
+    "icon": "home",
     "uri": "/home"
   },
   {
     "id": 1,
     "label": "Extranet",
-    "icon": "move_to_inbox",
+    "icon": "donut_small",
     "uri": "/extranet/home"
   },
-  { "id": 2, "label": "CRM", "icon": "move_to_inbox", "uri": "/crm/home" },
+  { "id": 2, "label": "CRM", "icon": "manage_accounts", "uri": "/crm/home" },
   {
     "id": 3,
     "label": "Address manager",
-    "icon": "move_to_inbox",
+    "icon": "email",
     "uri": "/partners/addresses"
   },
-  { "id": 4, "label": "Edition", "icon": "move_to_inbox", "uri": "/edg/home" },
-  { "id": 5, "label": "DMS", "icon": "move_to_inbox", "uri": "/dms/home" },
+  { "id": 4, "label": "Edition", "icon": "app_registration", "uri": "/edg/home" },
+  { "id": 5, "label": "DMS", "icon": "subtitles", "uri": "/dms/home" },
   {
     "id": 6,
     "label": "Print Manager",
-    "icon": "move_to_inbox",
+    "icon": "print",
     "uri": "/printing-manager/home"
   },
   {
     "id": 7,
     "label": "Notification center",
-    "icon": "move_to_inbox",
+    "icon": "notifications",
     "uri": "/notification-center/home"
   },
   {
     "id": 8,
     "label": "Partners",
-    "icon": "move_to_inbox",
+    "icon": "supervisor_account",
     "uri": "/partners/home"
   },
   {
     "id": 9,
     "label": "Tracking",
-    "icon": "move_to_inbox",
+    "icon": "sensors",
     "uri": "/tracking/home"
   },
   {
     "id": 10,
     "label": "Utils",
-    "icon": "move_to_inbox",
+    "icon": "source",
     "uri": "/utils/home"
   }
 ]
