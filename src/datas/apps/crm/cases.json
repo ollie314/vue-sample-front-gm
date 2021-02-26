@@ -1,0 +1,18 @@
+{
+  "cases": [
+    {
+      "id": "2ed44b11-58ba-4f00-8c6e-417d586e39c0",
+      "date": 1613896544,
+      "name": "case01",
+      "issuer": {
+        "id": "bd290678-2d3d-4d3a-9053-e13e20b7bd78",
+        "name": "John Doe"
+      },
+      "status": 1,
+      "partner": {
+        "id": "bd290678-2d3d-4d3a-9053-e13e20b7bd78",
+        "name": "John Doe"
+      }
+    }
+  ]
+}

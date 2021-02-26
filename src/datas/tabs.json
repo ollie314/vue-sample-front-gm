@@ -1,0 +1,181 @@
+{
+  "home": [
+    {
+      "id": "tab-home",
+      "uri": "/",
+      "label": "Home"
+    },
+    {
+      "id": "tab-infos",
+      "uri": "/infos",
+      "label": "Infos"
+    }
+  ],
+  "infos": [
+    {
+      "id": "tab-home",
+      "uri": "/",
+      "label": "Home"
+    },
+    {
+      "id": "tab-infos",
+      "uri": "/infos",
+      "label": "Infos"
+    }
+  ],
+  "crm": [
+    {
+      "id": "tab-crm-home",
+      "uri": "/crm/home",
+      "label": "CRM Home"
+    },
+    {
+      "id": "tab-crm-cases",
+      "uri": "/crm/cases",
+      "label": "Cases"
+    },
+    {
+      "id": "tab-crm-documents",
+      "uri": "/crm/documents",
+      "label": "Documents"
+    },
+    {
+      "id": "tab-crm-partners",
+      "uri": "/crm/partners",
+      "label": "Partners"
+    },
+    {
+      "id": "tab-crm-info",
+      "uri": "/crm/infos",
+      "label": "Infos"
+    }
+  ],
+  "extranet": [
+    {
+      "id": "tab-extranet-home",
+      "uri": "/extranet/home",
+      "label": "Extranet Home"
+    },
+    {
+      "id": "tab-extranet-documents",
+      "uri": "/extranet/documents",
+      "label": "My Documents"
+    },
+    {
+      "id": "tab-extranet-activities",
+      "uri": "/extranet/activities",
+      "label": "My Activites"
+    },
+    {
+      "id": "tab-extranet-profile",
+      "uri": "/extranet/me",
+      "label": "My Profile"
+    }
+  ],
+  "partners": [
+    {
+      "id": "tab-partners-home",
+      "uri": "/partners/home",
+      "label": "Partners Home"
+    },
+    {
+      "id": "tab-partners-address",
+      "uri": "/partners/addresses",
+      "label": "Partners Addresses"
+    }
+  ],
+  "dms": [
+    {
+      "id": "tab-dms-home",
+      "uri": "/dms/home",
+      "label": "dms Home"
+    },
+    {
+      "id": "tab-dms-documents",
+      "uri": "/dms/documents",
+      "label": "dms Documents"
+    }
+  ],
+  "tracking": [
+    {
+      "id": "tab-tracking-home",
+      "uri": "/tracking/home",
+      "label": "Tracking Home"
+    },
+    {
+      "id": "tab-tracking-activities",
+      "uri": "/tracking/activities",
+      "label": "Tracking Activities"
+    },
+    {
+      "id": "tab-tracking-alerts",
+      "uri": "/tracking/alerts",
+      "label": "Tracking Alerts"
+    }
+  ],
+  "printing-manager": [
+    {
+      "id": "tab-printing-home",
+      "uri": "/printing-manager/home",
+      "label": "Printing Home"
+    },
+    {
+      "id": "tab-printing-documents",
+      "uri": "/printing-manager/documents",
+      "label": "Printed Documents"
+    },
+    {
+      "id": "tab-printing-requests",
+      "uri": "/printing-manager/request",
+      "label": "Printing request"
+    }
+  ],
+  "sengind-manager": [
+    {
+      "id": "tab-sending-home",
+      "uri": "/sengind-manager/home",
+      "label": "Sending Home"
+    },
+    {
+      "id": "tab-sending-outputs",
+      "uri": "/sengind-manager/outputs",
+      "label": "Sending Outputs"
+    }
+  ],
+  "notification-center": [
+    {
+      "id": "tab-notification-center-home",
+      "uri": "/notification-center/home",
+      "label": "Notification Center"
+    },
+    {
+      "id": "tab-notification-center-notifications",
+      "uri": "/notification-center/notifications",
+      "label": "Notifications"
+    }
+  ],
+  "edg": [
+    {
+      "id": "tab-edg-home",
+      "uri": "/edg/home",
+      "label": "Edg Home"
+    },
+    {
+      "id": "tab-edg-templates",
+      "uri": "/edg/templates",
+      "label": "Edg templates"
+    },
+    {
+      "id": "tab-edg-compositions",
+      "uri": "/edg/compositions",
+      "label": "Edg Compositions"
+    }
+  ],
+  "utils": [
+    {
+      "id": "tab-utils-home",
+      "uri": "/utils/home",
+      "label": "Utilities"
+    }
+  ]
+}
